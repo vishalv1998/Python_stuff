@@ -1,2 +1,3 @@
 # Python_stuff
-need to act as though i'm being worthwhile to society
+Unoptimized Code for tic tac toe
+Unfinished Game of Witcher dice poker
